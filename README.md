@@ -1,6 +1,6 @@
 # Kicad_BreadBoard
 
-A Video Demonstration of Kicad's ability/compatibility with BreadBoard (BB) is posted at YouTube.
+A Video Demonstration of Kicad's ability/compatibility with BreadBoard (BB) is posted at YouTube. https://youtu.be/j06vDN3KJtE
 The Demo shows several aspects of this, including NGSpice Simulation of a BreadBoard's Circuit (also shows the equivalent Standard Circuit' simulation for comparison). 
 
 
