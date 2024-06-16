@@ -9,6 +9,8 @@ Kicad uses Footprints in the PCB layout.
 Footprints can be linked to 3D-Models (STEP and/or WRL(graphic).
 Footprints can be linked to Schematic 'Symbols'.
 
+NOTE: The posted Parts (Jumper/Wire and BB-Mini) have Colored Step Files and are Linked to them in the Footprints. User needs to set their Visibility in the Footprint-3D panel and may need to change the Link to them on User's system...  And, best to have only one color enabled to avoid Color-Bleeding especially on some old machines.... Once placed on BB (or PCB) they will retain the set color/link until/if user Updates from Library. Thus, just 'Update', don't update from Library.
+
 Schematic's are NOT absolutely required for a BreadBoard (or, PCB) and simple Hand-Sketched hobby circuits are an ideal use-case for this.
 Naturally, it's always preferred to have a Schematic (for various reasons).
 
@@ -22,7 +24,7 @@ If User chooses, the 3D-Viewer has File>Export of the Graphic
 
 Lastly, this Video is NOT a Tutorial on Simulation or, on Kicad usage...
 
-PARTS: Jumper-Wires, BreadBoards (Mini and 81x53) FOOTPRINT's and SYMBOL's are posted Here at Github. Also posted is the Jumper-Wire (FreeCAD for those desirous of Tweaking and/or Creating new Jumpers)
+Also posted is the Jumper-Wire (FreeCAD for those desirous of Tweaking and/or Creating new Jumpers)
 
 BB dimensions vary depending brand/source these are based on my hardware and are within a few Millimeters of one-another.
 Wires/Jumpers are dimensionally close-enough for use but are not Exact - Many represent an Average that will enable use for Straight and Angled orientation with only Minor notice...(I hope!)
